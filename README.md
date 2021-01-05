@@ -1,4 +1,4 @@
-# Garden Linux Release
+<h1> VMware has ended active development of this project, this repository will no longer be updated.</h1><br># Garden Linux Release
 
 A [BOSH](http://docs.cloudfoundry.org/bosh/) release for deploying [Garden Linux](https://github.com/cloudfoundry-incubator/garden-linux).
 
